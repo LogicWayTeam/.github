@@ -9,14 +9,10 @@ LogicWay is an open-source project aimed at building optimized hybrid routes for
 - **Gated Open-Source**: Available for anyone to use, modify, and contribute.
 
 ## **Technologies Used**
-- **Backend**: Django (Python 3.x)
-- **Frontend**: HTML, JavaScript
+- **Backend**: Powered by Django Framework (Python 3.x)
+- **Frontend**: HTML, JavaScript, OpenStreetMap
 - **Database**: PostgreSQL
-- **APIs**: OpenStreetMap API, GIS libraries
-- **Other Libraries**: 
-  - `psycopg2` for PostgreSQL integration
-  - `leaflet.js` for interactive maps
-  - `Django REST framework` for API handling
+- **APIs**: OpenStreetMap API and Valhalla (by routingpy), Nominatim (by geopy).
  
 ![Stops for Hybrid Route Building](Stops.png)
 ![Sample Route](Sample.png)
