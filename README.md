@@ -1,6 +1,6 @@
 # **LogicWay - Hybrid Route Builder**
 
-LogicWay is an open-source project aimed at building optimized hybrid routes for urban navigation. It incorporates a custom algorithm that considers both walking speed and various transportation modes to create efficient, personalized routes. This project is built using **Django** for the backend, with **HTML**, **JavaScript**, and **PostgreSQL** for the frontend and database.
+LogicWay is an open-source project aimed at building optimized hybrid routes for urban navigation. It incorporates a custom algorithm that considers both walking speed and various transportation modes to create efficient, personalized routes. This project is built using **Django** for the backend, with **HTML**, **JavaScript**, and **PostgreSQL** for database.
 
 ## **Key Features**
 - **Hybrid Route Calculation**: Combines walking and public transit to provide the most efficient path.
